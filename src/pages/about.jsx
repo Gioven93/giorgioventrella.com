@@ -53,7 +53,7 @@ export default function About() {
           <div className="lg:pl-20">
             <div className="max-w-xs px-2.5 lg:max-w-none">
               <Image
-                src={portrait}
+                src={portraitgv}
                 alt=""
                 sizes="(min-width: 1024px) 42rem, 20rem"
                 className="aspect-square rotate-3 bg-bottom rounded-2xl bg-zinc-100 object-cover object-top dark:bg-zinc-800"
