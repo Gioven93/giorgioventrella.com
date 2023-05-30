@@ -11,7 +11,7 @@ import {
   TwitterIcon,
 } from '@/components/SocialIcons'
 
-import portrait from "../images/portrait.jpg"
+import portraitgv from "../images/portraitgv.jpg"
 
 function SocialLink({ className, href, children, icon: Icon }) {
   return (
